@@ -1,7 +1,10 @@
 
-
-
-
+-- ------------------------------------------------------------------------------------------------------------
+-- Author:		Oliver Hand
+-- Created:		2023-01-14
+-- Purpose:		To provide insight around areas of A&E performance for specific disease areas / conditions
+-- Usage:		Exports are loaded into a PowerBI dashboard for presentation.
+-- ------------------------------------------------------------------------------------------------------------
 
 
 
